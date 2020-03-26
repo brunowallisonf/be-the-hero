@@ -10,8 +10,8 @@
 ### Funcionalities
 
 * Ong
-  ** Signup
-  ** Login
+  * Signup
+  * Login
 * Create incident
 * List ong incidents
 * list all incidents
